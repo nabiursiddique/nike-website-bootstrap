@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.button-color{
+    background-color: #3745c7;
+    color: #ffffff;
+}
+
+.main-header{
+    background-color: #fff9f4;
+}
+.navbar{
+    background-color: #fff9f4;
+}
+
+.nike-react{
+    font-size: 3.5rem;
+    color: #fa804c;
+}
+.infinity-run{
+    font-size: 4rem;
+}
+.for-card-back>img{
+    background-color: #f1f1f1;
+}
+.price>h3{
+    color: #fa804c;
+}
